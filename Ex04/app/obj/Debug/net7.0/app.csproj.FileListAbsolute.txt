@@ -1,0 +1,15 @@
+C:\repositorios\M02S04-Exercicios\Ex04\app\bin\Debug\net7.0\app.exe
+C:\repositorios\M02S04-Exercicios\Ex04\app\bin\Debug\net7.0\app.deps.json
+C:\repositorios\M02S04-Exercicios\Ex04\app\bin\Debug\net7.0\app.runtimeconfig.json
+C:\repositorios\M02S04-Exercicios\Ex04\app\bin\Debug\net7.0\app.dll
+C:\repositorios\M02S04-Exercicios\Ex04\app\bin\Debug\net7.0\app.pdb
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.dll
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\refint\app.dll
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.pdb
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\repositorios\M02S04-Exercicios\Ex04\app\obj\Debug\net7.0\ref\app.dll
